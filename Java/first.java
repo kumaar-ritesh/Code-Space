@@ -8,7 +8,7 @@ class first
             {
                 System.out.print("*");
             }
-            System.out.println();
+            System.out.println();// hello 
         }
     }
 }
